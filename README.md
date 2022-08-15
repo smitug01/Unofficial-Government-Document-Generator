@@ -9,7 +9,7 @@
   </a>
 </p>
 
-### 🏠 [Homepage](https://odg.sntw.tech)
+### 🏠 [Homepage](https://github.com/smitug01/Unofficial-Government-Document-Generator/)
 
 ## Author
 
