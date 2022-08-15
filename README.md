@@ -30,10 +30,15 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
+## 📝 Main Funcion License
 
 Copyright © 2022 [LU, CHENG-HUNG](https://github.com/smitug01).<br />
-This project is [GNU](https://www.gnu.org/licenses/gpl-3.0.txt) licensed.
+This project's main function is follow [GNU](https://www.gnu.org/licenses/gpl-3.0.txt) licensed.
+
+## 👥 Thired-Party Data, Function License.
+
+This project's "Legal Attest Letter of Taiwan" teamplate is change from [GitHub - Legal-Attest-Letter-Generator-TW](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW), that follow [MIT](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW/blob/master/LICENSE) licensed.
+This project using TW-Kai for main generated font, that follow [OGDL](https://data.gov.tw/license) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
