@@ -37,8 +37,9 @@ This project's main function is follow [GNU](https://www.gnu.org/licenses/gpl-3.
 
 ## 👥 Thired-Party Data, Function License.
 
-This project's "Legal Attest Letter of Taiwan" teamplate is change from [GitHub - Legal-Attest-Letter-Generator-TW](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW), that follow [MIT](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW/blob/master/LICENSE) licensed.
-This project using TW-Kai for main generated font, that follow [OGDL](https://data.gov.tw/license) licensed.
+This project's "Legal Attest Letter" teamplate is change from [GitHub - Legal-Attest-Letter-Generator-TW](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW), that follow [MIT](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW/blob/master/LICENSE) licensed.
+
+This project using TW-Kai for main generated font, that follow [Open Government Data License](https://data.gov.tw/license).
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
